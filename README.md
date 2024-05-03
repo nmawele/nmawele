@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nmawele
 - 👀 I’m interested in cybersecurity and web development 
-- 🌱 I’m currently learning both cybersecurity and web development
+- 🌱 I’m currently learning cybersecurity and web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me through my email  
+- 😄 Pronouns: Nehemiah
+- ⚡ Fun fact: I speak French and English  
 
 <!---
 nmawele/nmawele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
